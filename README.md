@@ -1,0 +1,1 @@
+This repository contains a Weather Forecast Data App that allows users to access up-to-date weather information for specific locations. Whether you're a weather enthusiast, a traveler, or just curious about the forecast, this app provides accurate and reliable weather data.
