@@ -34,3 +34,9 @@ streamlit run app.py
 - Enter the desired location in the text input field.
 - Adjust the slider to select the number of forecast days (up to 5 days).
 - Select either "Temperature" or "Sky" from the dropdown to view the corresponding weather data.
+
+## Snippet
+```bash
+git add app_screenshot.png README.md
+git commit -m "Add application screenshot to README"
+git push
